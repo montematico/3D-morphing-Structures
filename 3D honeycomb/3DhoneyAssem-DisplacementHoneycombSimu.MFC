@@ -1,0 +1,19 @@
+[StartTime]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=
+[SolverState]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=2
+[MainFrame]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=yes
+[SolverType]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=Stress Analysis
+[StudyType]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=-1
+[StudyName]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=DisplacementHoneycombSimu
+[Solver]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=Iterative
+[Dynamic]
+3DhoneyAssem-DisplacementHoneycombSimu.MFC=0
+[StudyName1]
